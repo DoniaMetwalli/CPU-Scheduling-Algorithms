@@ -1,4 +1,4 @@
 # CSCI315 Project
- Operating Systems Project - Scheduling Algorithms
- LRTF = Longest Remaining Time First
- HRRN = Highest Response Ratio Next
+ Operating Systems Project - Scheduling Algorithms <br/>
+ LRTF = Longest Remaining Time First <br/>
+ HRRN = Highest Response Ratio Next <br/>
